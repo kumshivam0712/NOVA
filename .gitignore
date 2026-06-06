@@ -1,0 +1,17 @@
+# Dependencies
+**/node_modules/
+
+# Environment & secrets
+**/.env
+!**/.env.example
+
+# Runtime data
+brandforge-full/backend/data/
+
+# Build output
+**/build/
+**/.venv/
+
+# OS & logs
+.DS_Store
+*.log
